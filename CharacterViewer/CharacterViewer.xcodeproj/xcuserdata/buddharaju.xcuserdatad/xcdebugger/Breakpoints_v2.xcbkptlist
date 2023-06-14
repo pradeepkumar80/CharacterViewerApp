@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E31281A3-B025-44A4-8DFC-8DD91D3CECD0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55A347C5-829C-4D40-B90A-20D8D1B4ABAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "characterSelected(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55A347C5-829C-4D40-B90A-20D8D1B4ABAE - d722c0f5e80417bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.characterSelected(CharacterViewer.RelatedTopic) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "55A347C5-829C-4D40-B90A-20D8D1B4ABAE - d722c0f5e80417de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.characterSelected(CharacterViewer.RelatedTopic) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "55A347C5-829C-4D40-B90A-20D8D1B4ABAE - d722c0f5e8040b53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.characterSelected(CharacterViewer.RelatedTopic) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "55A347C5-829C-4D40-B90A-20D8D1B4ABAE - d722c0f5e804085b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.characterSelected(CharacterViewer.RelatedTopic) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2D79913-F434-4B40-8963-621265F623E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2D79913-F434-4B40-8963-621265F623E7 - 6f49b3eb01be5cfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.viewDidLoad() -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C2D79913-F434-4B40-8963-621265F623E7 - 6f49b3eb01be5c35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.viewDidLoad() -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CAAFAA8-EE96-422F-BBD6-69C97EBEE9FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "characterSelected(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F588C179-341D-43CC-9AC7-FA594F0D2336"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "downloadImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F588C179-341D-43CC-9AC7-FA594F0D2336 - a048060d98d85a34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.downloadImage(Swift.String) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "F588C179-341D-43CC-9AC7-FA594F0D2336 - a048060d98d85bf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.downloadImage(Swift.String) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37B144AA-9D7A-42F9-A797-CF18610EC513"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterListTableVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5139A734-DBAC-45B0-9323-3FB9411E9CAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "downloadImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5139A734-DBAC-45B0-9323-3FB9411E9CAA - f41c2b5f28b3c5be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CharacterViewer.CharacterDetailVC.downloadImage(Swift.String) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "5139A734-DBAC-45B0-9323-3FB9411E9CAA - f41c2b5f28b3c5be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CharacterViewer.CharacterDetailVC.downloadImage(Swift.String) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9387332-F62D-48F6-9F22-67DDA540DEF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "downloadImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9387332-F62D-48F6-9F22-67DDA540DEF3 - f41c2b5f28b3c5dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CharacterViewer.CharacterDetailVC.downloadImage(Swift.String) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "C9387332-F62D-48F6-9F22-67DDA540DEF3 - f41c2b5f28b3c5dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CharacterViewer.CharacterDetailVC.downloadImage(Swift.String) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D8D73D5-A46D-4C93-95A7-BB0023DB22F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/Models/Character.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "iconURL"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "323DB69C-E399-4C84-ADD1-03732E547CC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "downloadImage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC3A6561-77E2-4DDC-93E8-334EBB7E34BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "downloadImage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "015F8CE3-1649-45C0-AC55-09AF490ACC02"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "CharacterDetailVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27012B67-2BDD-4798-B43E-6C5ED6F5A0ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "downloadImage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1ACABA21-8038-482A-94F2-C60741D52F18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Controllers/CharacterDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1ACABA21-8038-482A-94F2-C60741D52F18 - ca9c9b7f1ec613d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "1ACABA21-8038-482A-94F2-C60741D52F18 - ca9c9b7f1ec613d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewer.CharacterDetailVC.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "CharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Controllers/CharacterDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A17F11CB-6FDE-47A1-B948-C556BD4E040A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Models/CharacterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CharacterViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A17F11CB-6FDE-47A1-B948-C556BD4E040A - 5648e158e67db44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerWire.CharacterViewModel.init() -&gt; CharacterViewerWire.CharacterViewModel"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "A17F11CB-6FDE-47A1-B948-C556BD4E040A - 46f0c8c2eb39abe1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerSimpson.CharacterViewModel.init() -&gt; CharacterViewerSimpson.CharacterViewModel"
+                  moduleName = "CharacterViewerSimpson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "A17F11CB-6FDE-47A1-B948-C556BD4E040A - cb37550b95e9aacf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc CharacterViewerWire.CharacterListTableVC.init(style: __C.UITableViewStyle) -&gt; CharacterViewerWire.CharacterListTableVC"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "A17F11CB-6FDE-47A1-B948-C556BD4E040A - 8c750da7c49b2ded"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerWire.CharacterListTableVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CharacterViewerWire.CharacterListTableVC"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "A17F11CB-6FDE-47A1-B948-C556BD4E040A - eb643255cf1353d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerWire.CharacterListTableVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CharacterViewerWire.CharacterListTableVC&gt;"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FB0CDFC-6C9C-454F-8B6B-5EC52FAF6CCA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Models/CharacterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "CharacterViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1FB0CDFC-6C9C-454F-8B6B-5EC52FAF6CCA - 5648e158e67db44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerWire.CharacterViewModel.init() -&gt; CharacterViewerWire.CharacterViewModel"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "1FB0CDFC-6C9C-454F-8B6B-5EC52FAF6CCA - 46f0c8c2eb39ab65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerSimpson.CharacterViewModel.init() -&gt; CharacterViewerSimpson.CharacterViewModel"
+                  moduleName = "CharacterViewerSimpson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "1FB0CDFC-6C9C-454F-8B6B-5EC52FAF6CCA - 46f0c8c2eb39a4a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerSimpson.CharacterViewModel.init() -&gt; CharacterViewerSimpson.CharacterViewModel"
+                  moduleName = "CharacterViewerSimpson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "1FB0CDFC-6C9C-454F-8B6B-5EC52FAF6CCA - cb37550b95e9aacf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc CharacterViewerWire.CharacterListTableVC.init(style: __C.UITableViewStyle) -&gt; CharacterViewerWire.CharacterListTableVC"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1FB0CDFC-6C9C-454F-8B6B-5EC52FAF6CCA - 8c750da7c49b2ded"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerWire.CharacterListTableVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CharacterViewerWire.CharacterListTableVC"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "1FB0CDFC-6C9C-454F-8B6B-5EC52FAF6CCA - eb643255cf1353d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerWire.CharacterListTableVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CharacterViewerWire.CharacterListTableVC&gt;"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CA78126-0006-438C-831A-2DBB95DF4337"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/View Models/CharacterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "CharacterViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9CA78126-0006-438C-831A-2DBB95DF4337 - cb37550b95e9aa4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc CharacterViewerWire.CharacterListTableVC.init(style: __C.UITableViewStyle) -&gt; CharacterViewerWire.CharacterListTableVC"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9CA78126-0006-438C-831A-2DBB95DF4337 - 8c750da7c49b2d69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerWire.CharacterListTableVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CharacterViewerWire.CharacterListTableVC"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "9CA78126-0006-438C-831A-2DBB95DF4337 - eb643255cf135354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterViewerWire.CharacterListTableVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CharacterViewerWire.CharacterListTableVC&gt;"
+                  moduleName = "CharacterViewerWire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buddharaju/Documents/Projects/Anywhere%20Coding%20Excercise/CharacterViewer/CharacterViewer/View%20Models/CharacterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
